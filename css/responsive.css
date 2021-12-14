@@ -1,0 +1,95 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+
+
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.link-developer {
+	left: 0;
+	right: 0;
+}
+.single-skill.single-skill2 {
+	text-align: center;
+}
+.copyright {
+	line-height: 25px;
+	text-align: center;
+}
+.footer-inner h2 {
+	font-size: 20px;
+	margin-bottom: 5px;
+	margin-top: 30px;
+}
+.footer-logo {
+	padding-right: 0;
+	text-align: center;
+}
+.footer-nav {
+	text-align: center;
+}
+
+
+}
+
+ 
+/* Extra small Device. */
+@media (max-width: 767px) {
+.slider-text p {
+	margin-bottom: 0;
+}
+ .slider-text h2 {
+	font-size: 25px;
+}
+.linked-btn {
+	padding: 10px 15px;
+	font-size: 12px;
+}
+.single-service {
+	text-align: center;
+}
+.single-portfolio{
+	margin-bottom: 30px;
+}
+.single-portfolio:hover .portfolio {
+	-webkit-transform: scale(1);
+	transform: scale(1);
+}
+.about-bg {
+	width: 100%;
+}
+.about-inner {
+	display: none
+}
+.progress-bg {
+	display: none;
+}
+.copyright {
+	line-height: 25px;
+	text-align: center;
+}
+.footer-inner h2 {
+	font-size: 20px;
+	margin-bottom: 5px;
+	margin-top: 30px;
+}
+.footer-logo {
+	padding-right: 0;
+	text-align: center;
+}
+
+}
+ 
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+ 
+}
